@@ -4,7 +4,7 @@
 💡 I enjoy building fast, scalable, and efficient web applications  
 🌱 Currently exploring **full-stack integrations**, **API optimization**, and **cloud deployment**  
 💬 Ask me about **FastAPI**, **React**, **Python**, or **backend architecture**  
-⚡ Fun fact: I love turning complex backend logic into smooth user experiences 🎧  
+  
 
 ---
 
